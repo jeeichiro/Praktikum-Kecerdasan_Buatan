@@ -1,5 +1,7 @@
 # Praktikum-Kecerdasan_Buatan
 2309106037 Muhammad Jahron
+
+
 <img width="573" height="455" alt="image" src="https://github.com/user-attachments/assets/ba2da32a-3bd3-4d9f-bca6-6ad52b35f009" />
 
 <img width="481" height="504" alt="image" src="https://github.com/user-attachments/assets/e0aff3ab-efd4-4eac-91ea-cf6f7c197175" />
